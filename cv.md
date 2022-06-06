@@ -1,5 +1,4 @@
 # *Shalashova Natalia*
----
 ## *Contact information*
 - Phone: +7 (960) 7109993
 - E-mail: nataliashalashova@gmail.com
@@ -21,7 +20,7 @@ Previously I worked in Pricing and Revenue related departments. I have 5 years o
 - Git/GitHub
 ---
 ## *Education*
-*St. Petersburg State University, Saint Petersburg*
+**St. Petersburg State University, Saint Petersburg**
 Philology, Theory of Language
 Master Degree (2013)
 ---
