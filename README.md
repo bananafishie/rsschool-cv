@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bananafishie.github.io/rsschool-cv/cv
